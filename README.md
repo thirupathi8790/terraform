@@ -1,2 +1,1 @@
-# terraform
-jenkins provide the terraform pipeline
+jenkins install through terraform 
